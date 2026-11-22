@@ -1,0 +1,181 @@
+{
+  "_napomena": "Rezervni rezim chata (bez AI). Isti sadrzaj kao worker/znanje.md. Kad menjas cene, menjaj na oba mesta.",
+  "contact": {
+    "email": "avellagency@gmail.com",
+    "phone": "+382 68 485 267",
+    "tel": "+38268485267",
+    "wa": "38268485267",
+    "instagram": "avella.agency"
+  },
+  "packages": {
+    "site": [
+      {
+        "n": "Starter", "p": "499", "m": "29",
+        "for": {"sr": "Pogodno za manje biznise kojima je potreban profesionalan online nastup.", "en": "For smaller businesses that need a professional online presence."},
+        "it": {"sr": ["Do 5 stranica", "Moderan responsive dizajn", "Kontakt forma", "Google Maps", "Povezivanje društvenih mreža", "Osnovni SEO", "Osnovna optimizacija brzine"], "en": ["Up to 5 pages", "Modern responsive design", "Contact form", "Google Maps", "Social media integration", "Basic SEO", "Basic speed optimization"]},
+        "ex": "https://mileticc0.github.io/muchobesame/"
+      },
+      {
+        "n": "Professional", "p": "999", "m": "59", "pop": true,
+        "for": {"sr": "Pogodno za biznise kojima je potreban ozbiljniji i detaljniji sajt.", "en": "For businesses that need a more serious, detailed website."},
+        "it": {"sr": ["Do 10 stranica", "Potpuno prilagođen dizajn", "Galerija / portfolio", "Animacije i interakcije", "Booking / rezervacije", "Napredni SEO", "Optimizacija brzine", "Kontakt i upit forme", "Google Maps i društvene mreže", "Google Analytics"], "en": ["Up to 10 pages", "Fully tailored design", "Gallery / portfolio", "Animations and interactions", "Booking / reservations", "Advanced SEO", "Speed optimization", "Contact and inquiry forms", "Google Maps and social media", "Google Analytics"]},
+        "ex": "https://mileticc0.github.io/vinarijakamenik/"
+      },
+      {
+        "n": "Business", "p": "1.649", "m": "99",
+        "for": {"sr": "Pogodno za ozbiljnije biznise kojima su potrebne dodatne funkcionalnosti.", "en": "For established businesses that need extra functionality."},
+        "it": {"sr": ["Sve iz Professional paketa", "Do 15 stranica", "Premium custom dizajn", "Booking / sistem za rezervacije", "CMS za jednostavno menjanje sadržaja", "Napredne forme i integracije", "Napredna analitika", "Struktura sajta fokusirana na konverzije", "Prioritetna tehnička podrška"], "en": ["Everything in Professional", "Up to 15 pages", "Premium custom design", "Booking / reservation system", "CMS for easy content editing", "Advanced forms and integrations", "Advanced analytics", "Conversion-focused site structure", "Priority technical support"]},
+        "ex": "https://avellagency.github.io/maglenhotel/index.html"
+      },
+      {
+        "n": "Premium", "p": "1.999", "m": "149",
+        "for": {"sr": "Naš najkompletniji paket za hotele, vile, apartmane i ozbiljne kompanije.", "en": "Our most complete package for hotels, villas, apartments and serious companies."},
+        "it": {"sr": ["Sve iz Business paketa", "Potpuno custom premium sajt", "Napredni booking sistem", "Online plaćanje", "Custom funkcionalnosti", "Napredni CMS", "Napredna SEO optimizacija", "Optimizacija performansi", "Prioritetna podrška"], "en": ["Everything in Business", "Fully custom premium website", "Advanced booking system", "Online payments", "Custom features", "Advanced CMS", "Advanced SEO optimization", "Performance optimization", "Priority support"]},
+        "ex": "https://mileticc0.github.io/zakljucano/"
+      }
+    ],
+    "shop": [
+      {
+        "n": "Shop Starter", "p": "849", "m": "49",
+        "for": {"sr": "Za male i srednje prodavnice koje žele profesionalan početak online prodaje.", "en": "For small and mid-sized shops starting to sell online professionally."},
+        "it": {"sr": ["Do 100 proizvoda", "Moderan i profesionalan dizajn web shopa", "Kategorije i podkategorije", "Korpa i online naručivanje", "Prijem i upravljanje porudžbinama", "Osnovna pretraga proizvoda", "Podešavanje načina plaćanja", "Osnovne opcije dostave", "Responsive dizajn", "Osnovna SEO optimizacija", "Društvene mreže", "Google Maps"], "en": ["Up to 100 products", "Modern, professional store design", "Categories and subcategories", "Cart and online ordering", "Order management", "Basic product search", "Payment method setup", "Basic delivery options", "Responsive design", "Basic SEO optimization", "Social media", "Google Maps"]}
+      },
+      {
+        "n": "Shop Premium", "p": "1.499", "m": "99", "pop": true,
+        "for": {"sr": "Za ozbiljne prodavnice kojima treba više proizvoda i naprednih opcija.", "en": "For serious shops that need more products and advanced options."},
+        "it": {"sr": ["Sve iz Shop Starter paketa", "Do 300 proizvoda", "Potpuno prilagođen premium dizajn", "Napredna organizacija kategorija", "Napredna pretraga i filtriranje", "Sortiranje po ceni, popularnosti i drugim kriterijumima", "Varijacije proizvoda (veličine, boje, modeli)", "Upravljanje zalihama", "Kuponi i popusti", "Automatske e-mail potvrde porudžbina", "Kartično plaćanje (ako ga podržava izabrani payment provajder)", "Do 3 jezika", "Napredna SEO optimizacija proizvoda i kategorija", "Google Analytics i Search Console", "Optimizacija brzine"], "en": ["Everything in Shop Starter", "Up to 300 products", "Fully tailored premium design", "Advanced category structure", "Advanced search and filtering", "Sorting by price, popularity and more", "Product variations (sizes, colors, models)", "Stock management", "Coupons and discounts", "Automatic order confirmation emails", "Card payments (if supported by your payment provider)", "Up to 3 languages", "Advanced product and category SEO", "Google Analytics and Search Console", "Speed optimization"]}
+      },
+      {
+        "n": "Shop Elite", "p": "2.499", "m": "149",
+        "for": {"sr": "Za velike prodavnice i zahtevne e-commerce projekte.", "en": "For large stores and demanding e-commerce projects."},
+        "it": {"sr": ["Sve iz Shop Premium paketa", "Do 500 proizvoda", "Potpuno unikatan custom dizajn", "Napredna korpa i checkout", "Napredni filteri i pretraga", "Napredno upravljanje proizvodima i zalihama", "Integracije sa eksternim servisima i poslovnim sistemima", "Do 5 jezika", "Napredna SEO struktura", "Napredna analitika i praćenje prodaje", "Dodatne funkcionalnosti po meri", "Napredna optimizacija performansi i bezbednosti", "Prioritetna tehnička podrška tokom izrade"], "en": ["Everything in Shop Premium", "Up to 500 products", "Fully unique custom design", "Advanced cart and checkout", "Advanced filters and search", "Advanced product and stock management", "Integrations with external services and business systems", "Up to 5 languages", "Advanced SEO structure", "Advanced analytics and sales tracking", "Custom features on request", "Advanced performance and security optimization", "Priority technical support during the build"]}
+      }
+    ],
+    "shopExample": "https://avellagency.github.io/petshopmadagaskar/"
+  },
+  "topics": {
+    "prices": {
+      "sr": "Sajt: Starter 499 € + 29 €/mes · Professional 999 € + 59 €/mes · Business 1.649 € + 99 €/mes · Premium 1.999 € + 149 €/mes.\nWeb shop: Shop Starter 849 € + 49 €/mes · Shop Premium 1.499 € + 99 €/mes · Shop Elite 2.499 € + 149 €/mes.\nMesečno održavanje uključuje domen, hosting, SSL, backup i tehničku podršku. Sve stavke: uporedi.html",
+      "en": "Websites: Starter €499 + €29/mo · Professional €999 + €59/mo · Business €1,649 + €99/mo · Premium €1,999 + €149/mo.\nOnline stores: Shop Starter €849 + €49/mo · Shop Premium €1,499 + €99/mo · Shop Elite €2,499 + €149/mo.\nMonthly maintenance covers domain, hosting, SSL, backup and technical support. Full list: uporedi.html"
+    },
+    "time": {
+      "sr": "Prosečna izrada traje oko 3 dana. Tačan rok dogovaramo pre početka rada, u zavisnosti od paketa i obima posla. Na upit odgovaramo u roku od 24h.",
+      "en": "An average build takes about 3 days. We agree on the exact deadline before we start, depending on the package and scope. We reply to inquiries within 24h."
+    },
+    "maintenance": {
+      "sr": "Domen, hosting, SSL sertifikat, redovan backup i tehnička podrška su uvek uključeni.\nStarter (29 €/mes): i manje izmene sadržaja, fotografija i informacija. Professional (59 €/mes): + dodatna podrška i održavanje naprednih funkcionalnosti. Business (99 €/mes): + izmene sadržaja i održavanje booking sistema. Premium (149 €/mes): kompletna tehnička briga, ažuriranja, booking i izmene sadržaja.",
+      "en": "Domain, hosting, SSL certificate, regular backups and technical support are always included.\nStarter (€29/mo): plus minor content, photo and info updates. Professional (€59/mo): + extra support and maintenance of advanced features. Business (€99/mo): + content updates and booking system maintenance. Premium (€149/mo): complete technical care, updates, booking and content updates."
+    },
+    "shop": {
+      "sr": "Web shop: Shop Starter 849 € + 49 €/mes (do 100 proizvoda) · Shop Premium 1.499 € + 99 €/mes (do 300) · Shop Elite 2.499 € + 149 €/mes (do 500). Provizije payment provajdera i banke nisu uključene. Primer: https://avellagency.github.io/petshopmadagaskar/",
+      "en": "Online store: Shop Starter €849 + €49/mo (up to 100 products) · Shop Premium €1,499 + €99/mo (up to 300) · Shop Elite €2,499 + €149/mo (up to 500). Payment provider and bank fees are not included. Example: https://avellagency.github.io/petshopmadagaskar/"
+    },
+    "examples": {
+      "sr": "Primeri: Starter https://mileticc0.github.io/muchobesame/ · Professional https://mileticc0.github.io/vinarijakamenik/ · Business https://avellagency.github.io/maglenhotel/index.html · Premium https://mileticc0.github.io/zakljucano/ · Web shop https://avellagency.github.io/petshopmadagaskar/",
+      "en": "Examples: Starter https://mileticc0.github.io/muchobesame/ · Professional https://mileticc0.github.io/vinarijakamenik/ · Business https://avellagency.github.io/maglenhotel/index.html · Premium https://mileticc0.github.io/zakljucano/ · Online store https://avellagency.github.io/petshopmadagaskar/"
+    },
+    "contact": {
+      "sr": "Email avellagency@gmail.com · telefon i WhatsApp +382 68 485 267 · Instagram @avella.agency. Odgovaramo u roku od 24h.",
+      "en": "Email avellagency@gmail.com · phone and WhatsApp +382 68 485 267 · Instagram @avella.agency. We reply within 24h."
+    },
+    "bot": {
+      "sr": "Ja sam automatski asistent sajta. Na upite odgovara Mihajlo lično, u roku od 24h.",
+      "en": "I'm the site's automated assistant. Inquiries are answered by Mihajlo personally, within 24h."
+    },
+    "discount": {
+      "sr": "Cene su kao na sajtu. Za poseban dogovor najbolje je da Vam Mihajlo kaže direktno.",
+      "en": "Prices are as listed on the site. For anything specific, Mihajlo is the best person to tell you directly."
+    },
+    "unknown": {
+      "sr": "To je najbolje da Vam Mihajlo kaže direktno. Ostavite kontakt ili mu pišite na WhatsApp.",
+      "en": "That's best answered by Mihajlo directly. Leave your contact or message him on WhatsApp."
+    },
+    "offtopic": {
+      "sr": "Trenutno mogu da odgovorim samo na pitanja o sajtovima i paketima Avelle. Za ostalo pokušajte malo kasnije ili nam pišite na WhatsApp.",
+      "en": "Right now I can only answer questions about Avella websites and packages. For anything else, try again a bit later or message us on WhatsApp."
+    }
+  },
+  "faq": [
+    {"id": "cost", "k": ["kosta", "cena", "cene", "cenu", "cijena", "price", "prices", "cost", "how much", "koliko"],
+     "sr": "Cena izrade sajta kreće od 499 € za Starter paket, a web shop od 849 €. Uz to ide mesečno održavanje od 29 € (domen, hosting, SSL, backup i podrška).",
+     "en": "Websites start at €499 (Starter) and online stores at €849. Monthly maintenance starts at €29 and covers domain, hosting, SSL, backup and support."},
+    {"id": "time", "k": ["traje", "rok", "dana", "brzo", "kada", "how long", "deadline", "days", "time"],
+     "sr": "Prosečna izrada traje oko 3 dana. Tačan rok dogovaramo pre početka rada, u zavisnosti od paketa i obima posla.",
+     "en": "An average build takes about 3 days. We agree on the exact deadline before we start, depending on the package and scope."},
+    {"id": "maint", "k": ["odrzavanj", "mesecn", "mjesecn", "maintenance", "monthly", "backup", "ssl"],
+     "sr": "Domen, hosting, SSL sertifikat, redovan backup i tehnička podrška. U zavisnosti od paketa i izmene sadržaja i održavanje booking sistema.",
+     "en": "Domain, hosting, SSL certificate, regular backups and technical support. Depending on the package, also content updates and booking system maintenance."},
+    {"id": "domain", "k": ["domen", "hosting", "domain", "host"],
+     "sr": "Da. Domen i hosting su uključeni u mesečno održavanje – ne morate ništa da zakupljujete sami.",
+     "en": "Yes. Domain and hosting are included in monthly maintenance – you do not need to buy anything yourself."},
+    {"id": "cms", "k": ["cms", "menjam", "menjati", "mijenjam", "sam da", "sama da", "izmen", "edit", "myself", "update content"],
+     "sr": "Da, u Business i Premium paketu dobijate CMS – jednostavan panel za izmenu tekstova, slika i cena. U ostalim paketima izmene radimo mi.",
+     "en": "Yes, Business and Premium include a CMS – a simple panel for editing text, images and prices. In other packages we make the changes for you."},
+    {"id": "seo", "k": ["seo", "google", "pretrag", "search"],
+     "sr": "Da. Svaki sajt je optimizovan za Google – od osnovnog SEO-a u Starter paketu do napredne SEO strukture, Google Analytics i Search Console u većim paketima.",
+     "en": "Yes. Every site is optimized for Google – from basic SEO in Starter to an advanced SEO structure, Google Analytics and Search Console in bigger packages."},
+    {"id": "fees", "k": ["kartic", "provizij", "placanj", "payment", "fee", "fees", "card", "stripe", "paypal"],
+     "sr": "Ne. Provizije payment provajdera i banke nisu uključene u cenu paketa i plaćaju se direktno njima.",
+     "en": "No. Payment provider and bank fees are not included in the package price and are paid directly to them."},
+    {"id": "custom", "k": ["funkcij", "dodatn", "po meri", "feature", "custom", "extra"],
+     "sr": "Da. Dodatne funkcionalnosti po meri se dodatno ugovaraju – opišite nam u upitu šta vam treba.",
+     "en": "Yes. Custom features can be added by separate agreement – describe what you need in your inquiry."}
+  ],
+  "info": [
+    {"sr": "Unos proizvoda: broj proizvoda u paketu važi za proizvode za koje klijent dostavi fotografije, cene i opise.", "en": "Product entry: the product count applies to products for which the client provides photos, prices and descriptions."},
+    {"sr": "Dodatni proizvodi: proizvodi preko limita paketa se dodatno naplaćuju.", "en": "Extra products: products over the package limit are charged extra."},
+    {"sr": "Ažuriranje proizvoda: manje izmene cena, slika, opisa i akcija uključene su u mesečno održavanje.", "en": "Product updates: minor changes to prices, images, descriptions and promotions are included in monthly maintenance."},
+    {"sr": "Masovne izmene: masovne izmene proizvoda i cena dogovaraju se posebno.", "en": "Bulk changes: bulk product and price changes are agreed separately."},
+    {"sr": "Plaćanja: provizije payment provajdera, banke i licence nisu uključene u cenu paketa.", "en": "Payments: payment provider fees, bank fees and licences are not included in the package price."},
+    {"sr": "Domen i hosting su uključeni u mesečno održavanje.", "en": "Domain and hosting are included in monthly maintenance."},
+    {"sr": "Funkcionalnosti koje nisu u paketu mogu se dodatno ugovoriti.", "en": "Features not included in the package can be added by separate agreement."}
+  ],
+  "recommend": {
+    "q1": {
+      "sr": "Koja je vrsta Vašeg biznisa?", "en": "What kind of business is it?",
+      "opts": [
+        {"v": "dent", "sr": "Stomatologija", "en": "Dental clinic"},
+        {"v": "rest", "sr": "Restoran / kafić", "en": "Restaurant / café"},
+        {"v": "vila", "sr": "Vila / apartman", "en": "Villa / apartment"},
+        {"v": "hotel", "sr": "Hotel", "en": "Hotel"},
+        {"v": "salon", "sr": "Salon lepote", "en": "Beauty salon"},
+        {"v": "shop", "sr": "Prodavnica", "en": "Shop"},
+        {"v": "other", "sr": "Drugo", "en": "Other"}
+      ]
+    },
+    "q2site": {
+      "sr": "Da li Vam treba online rezervacija?", "en": "Do you need online booking?",
+      "opts": [
+        {"v": "none", "sr": "Ne, samo predstavljanje", "en": "No, just a presentation"},
+        {"v": "booking", "sr": "Da, rezervacije", "en": "Yes, booking"},
+        {"v": "pay", "sr": "Rezervacije + online plaćanje", "en": "Booking + online payment"},
+        {"v": "sell", "sr": "Prodaja proizvoda", "en": "Selling products"}
+      ]
+    },
+    "q3site": {
+      "sr": "Otprilike koliko stranica?", "en": "Roughly how many pages?",
+      "opts": [
+        {"v": "5", "sr": "Do 5", "en": "Up to 5"},
+        {"v": "10", "sr": "Do 10", "en": "Up to 10"},
+        {"v": "15", "sr": "Do 15", "en": "Up to 15"},
+        {"v": "more", "sr": "Više / ne znam", "en": "More / not sure"}
+      ]
+    },
+    "q3shop": {
+      "sr": "Otprilike koliko proizvoda?", "en": "Roughly how many products?",
+      "opts": [
+        {"v": "100", "sr": "Do 100", "en": "Up to 100"},
+        {"v": "300", "sr": "Do 300", "en": "Up to 300"},
+        {"v": "500", "sr": "Do 500", "en": "Up to 500"},
+        {"v": "more", "sr": "Više od 500", "en": "Over 500"}
+      ]
+    },
+    "rules": {
+      "_objasnjenje": "kljuc = odgovor na pitanje 2 + '_' + odgovor na pitanje 3. Vrednost = ime paketa ili 'ask' (pita Mihajla).",
+      "none_5": "Starter", "none_10": "Professional", "none_15": "Business", "none_more": "Premium",
+      "booking_5": "Professional", "booking_10": "Professional", "booking_15": "Business", "booking_more": "Premium",
+      "pay_5": "Premium", "pay_10": "Premium", "pay_15": "Premium", "pay_more": "Premium",
+      "shop_100": "Shop Starter", "shop_300": "Shop Premium", "shop_500": "Shop Elite", "shop_more": "ask"
+    }
+  }
+}
